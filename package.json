@@ -1,0 +1,30 @@
+{
+  "name": "deep-merge-js",
+  "version": "1.0.0",
+  "description": "A library for deep merging js objects",
+  "keywords": [
+    "merge",
+    "deep",
+    "extend",
+    "copy",
+    "clone",
+    "recursive"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smiranton-ua/deep-merge-js.git"
+  },
+  "author": "Anton Smirnov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smiranton-ua/deep-merge-js/issues"
+  },
+  "homepage": "https://github.com/smiranton-ua/deep-merge-js#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
