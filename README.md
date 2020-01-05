@@ -1,6 +1,6 @@
 # deep-merge-js
 
-Deeply merges javascript objects.
+Plain javascript function to deeply merge objects.
 
 ## Getting Started
 
