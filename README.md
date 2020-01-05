@@ -57,8 +57,3 @@ With [npm](http://npmjs.org) do:
 ```sh
 npm test
 ```
-
-
-# License
-
-MIT
