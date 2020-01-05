@@ -1,3 +1,2 @@
 /lib/**.spec.js
 .gitignore
-.travis.yml
