@@ -49,7 +49,7 @@ npm install deep-merge-js
 deep-merge-js exposes a CommonJS entry point:
 
 ```
-const merge = require('deepmerge')
+const merge = require('deep-merge-js')
 ```
 
 # API
