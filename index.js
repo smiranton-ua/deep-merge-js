@@ -1,3 +1,3 @@
-const merge = require('./lib/merge');
+const merge = require('./lib/deepmerge');
 
 module.exports = merge;
