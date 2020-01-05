@@ -50,12 +50,6 @@ npm install deep-merge-js
 const merge = require('deep-merge-js')
 ```
 
-# API
-
-## `merge(x, y, ...args)`
-
-Merge two and more objects deeply.
-
 # Testing
 
 With [npm](http://npmjs.org) do:
