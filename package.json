@@ -1,7 +1,7 @@
 {
   "name": "deep-merge-js",
-  "version": "1.0.0",
-  "description": "A library for deep merging js objects",
+  "version": "1.0.1",
+  "description": "A plain javascript library for deep merging objects",
   "keywords": [
     "merge",
     "deep",
