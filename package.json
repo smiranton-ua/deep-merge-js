@@ -8,7 +8,10 @@
     "extend",
     "copy",
     "clone",
-    "recursive"
+    "recursive",
+    "deepmerge",
+    "deep-merge",
+    "deep-merge-js"
   ],
   "main": "dist/index.js",
   "scripts": {
