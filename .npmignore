@@ -1,2 +1,4 @@
-/lib/**.spec.js
+lib
+node_modules
 .gitignore
+.git
