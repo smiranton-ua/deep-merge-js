@@ -1,6 +1,6 @@
 # deep-merge-js
 
-Plain javascript function to deeply merge objects.
+Plain javascript function to deeply merge objects (only 1.4Kb -> gzipped: 682B)
 
 ## Getting Started
 
